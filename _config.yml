@@ -16,11 +16,7 @@ timezone: Europe/Budapest
 
 title: Zsolt Varjú's blog # the main title
 
-<<<<<<< HEAD
 tagline: How you do one thing is how you do everything # it will display as the sub-title
-=======
-tagline: A text-focused Jekyll theme # it will display as the subtitle
->>>>>>> d74bfaeda25f5b75d665b99b38b44f6f8dc98df1
 
 description: >- # used by seo meta and the atom feed
   My personal blog about web development
@@ -30,17 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-<<<<<<< HEAD
   username: zsoolti8917 # change to your github username
 
 twitter:
   # username: twitter_username # change to your twitter username
-=======
-  username: github_username # change to your GitHub username
-
-twitter:
-  username: twitter_username # change to your Twitter username
->>>>>>> d74bfaeda25f5b75d665b99b38b44f6f8dc98df1
 
 social:
   # Change to your full name.
@@ -49,13 +38,8 @@ social:
   email: zsolt.varju.rl@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-<<<<<<< HEAD
     # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/zsoolti8917 # change to your github homepage
-=======
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
->>>>>>> d74bfaeda25f5b75d665b99b38b44f6f8dc98df1
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/zsoltvarju
@@ -122,13 +106,8 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
-<<<<<<< HEAD
   # Global switch for the post comment system. Keeping it empty means disabled.
   provider: giscus # [disqus | utterances | giscus]
-=======
-  # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
->>>>>>> d74bfaeda25f5b75d665b99b38b44f6f8dc98df1
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
