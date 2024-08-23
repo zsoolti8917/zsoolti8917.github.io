@@ -13,11 +13,11 @@ media_subpath: 'assets/posts/dokku'
 
 Welcome to your next adventure in the world of web development! If you're reading this, chances are you've got an idea for an app, a side project, or maybe you just want to level up your dev skills. Whatever brought you here, this guide is going to walk you through how to deploy Dokku on your very own VPS---no prior experience required.
 
-### What's Dokku, and Why Should You Care?
+## What's Dokku, and Why Should You Care?
 
 So, what's this Dokku thing anyway? Imagine having your own private Heroku---Dokku turns your server into a mini-PaaS (Platform as a Service), making it super easy to deploy and manage your apps. If you've ever found yourself tangled in the complexities of server management, Dokku is like a breath of fresh air.
 
-#### Here's why Dokku rocks:
+### Here's why Dokku rocks:
 
 -   **Simplicity at its Best:** You don't need to be a server wizard. Dokku handles a lot of the heavy lifting for you, letting you focus on what you love: building cool stuff.
 -   **Budget-Friendly:** Forget about those hefty Heroku bills. Running Dokku on a VPS is a wallet-friendly alternative that gives you full control.
@@ -35,7 +35,7 @@ In this guide, I'm going to take you through every single step of getting Dokku 
 
 By the time you're done, you'll not only have a working Dokku setup but also the confidence to deploy and manage your own apps. Let's get started and turn your VPS into a deployment powerhouse!
 
-Setting Up Your VPS
+Section 1: Setting Up Your VPS
 ------------------------------
 
 When it came to picking a VPS provider for hosting my personal and commercial websites, I decided on **Forpsi**. You might be wondering why I chose Forpsi over other big names like DigitalOcean or AWS. Here's the deal: Forpsi is a semi-local provider for me, based in Slovakia, which means I get better latency and more tailored support. Plus, it's easy on the wallet without sacrificing performance.
@@ -384,7 +384,7 @@ chmod 600 ~/.ssh/authorized_keys
 ```
 Replace 'your-public-ssh-key' with the key you copied earlier. This allows Dokku to authenticate your Git pushes.
 
-1.  **Verify Installation:**
+**Verify Installation:**
 
 After setting up SSH access, verify your Dokku installation with:
 
@@ -405,7 +405,7 @@ Now that you've got Dokku set up, it's time to deploy your first application. Do
 
 Let's use a basic Node.js app as an example. If you prefer Python or another language, the steps will be similar, but tailored to your chosen framework.
 
-1.  **Create a Simple Node.js App on Your Local PC:**
+**Create a Simple Node.js App on Your Local PC:**
 
 First, ensure Node.js and npm are installed on your local machine. If they're not, download them from [nodejs.org](https://nodejs.org/).
 
@@ -458,14 +458,14 @@ Your app is now ready for deployment!
 
 With your app prepared on your local machine, let's get it running on your VPS.
 
-1.  **Create a Dokku App:**
+**Create a Dokku App:**
 
 Connect to your VPS via SSH and create a new app on Dokku. Replace your-app-name with a name for your application:
 
 ```bash
 dokku apps:create your-app-name
 ```
-1.  **Add Your SSH Key and Set Up HTTPS with Let's Encrypt:**
+**Add Your SSH Key and Set Up HTTPS with Let's Encrypt:**
 
 Make sure your public SSH key is set up for Dokku by following the previous instructions. This step ensures secure deployments.
 
@@ -482,7 +482,7 @@ This will automatically obtain and configure an SSL certificate for your domain,
 
 Now, let's push your app from your local machine to Dokku:
 
-1.  **Initialize Git Repository (if not done already):**
+**Initialize Git Repository (if not done already):**
 
 In your project directory, initialize a Git repository:
 
@@ -496,14 +496,14 @@ git add .
 
 git commit -m "Initial commit"
 ```
-1.  **Add Dokku Remote:**
+**Add Dokku Remote:**
 
 Add a Git remote for Dokku, pointing to your VPS. Replace your-app-name with your app's name and your-vps-ip with your VPS's IP address:
 
 ```bash
 git remote add dokku dokku@your-vps-ip:your-app-name
 ```
-1.  **Deploy Your App:**
+**Deploy Your App:**
 
 Push your code to Dokku:
 
