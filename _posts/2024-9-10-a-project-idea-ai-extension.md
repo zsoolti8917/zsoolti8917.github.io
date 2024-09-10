@@ -7,16 +7,15 @@ date: 2024-08-23 12:42:00 +0200
 categories: [AI, Extension, Learning]
 tags: [AI]
 pin: false
-media_subpath: 'assets/img'
+media_subpath: 'assets/posts/dokku'
 ---
 
-**Introduction**
+## Introduction
 
 Hey there! 👋 I'm always buzzing with ideas, and lately, I've been obsessing over one in particular: an AI-powered voice assistant Chrome extension that could totally change the way we experience the web. It's still just a twinkle in my eye, and I'll only get to build it if time allows, but let me paint you a picture of what it *could* be...
 
 
-
-**My Vision: Reading, But Make it Interactive**
+## My Vision: Reading, But Make it Interactive
 
 Picture this: You're scrolling through the internet, and you find an article that sparks your interest. But maybe you're on the go, or your eyes are tired, or you just prefer to *listen* to stuff. With my extension, you'd just click a button, and boom! The article starts reading itself to you in a friendly, natural voice. It'd be like having your own personal storyteller, letting you multitask or just chill while soaking up new knowledge.
 
@@ -29,7 +28,7 @@ But I'm not stopping there. I want to make reading *way* more engaging.
 
 ![From dream to reality](../assets/img/AI_Assistant.PNG)
 
-**The Techy Stuff: Making the Magic Happen**
+## The Techy Stuff: Making the Magic Happen
 
 Okay, so how would this all work? Well, I'd probably use a mix of cool technologies:
 
@@ -47,7 +46,7 @@ Okay, so how would this all work? Well, I'd probably use a mix of cool technolog
 
 When it comes to the financial side of things, I'll need to factor in the cost of using the OpenAI API, as ChatGPT usage isn't free.  I might need to set some usage limits or explore subscription options to make sure things stay sustainable. Additionally, if I want to store user data or add features like syncing progress across devices, web hosting and database storage will also come into play. And let's not forget the biggest investment of all – my own time and energy! Building a truly awesome extension is going to take dedication and ongoing refinement.
 
-**Next Steps: From Dream to Reality**
+## Next Steps: From Dream to Reality
 
 If I get the chance to pursue this project, i would follow the following diagram:
 
@@ -61,17 +60,16 @@ If I get the chance to pursue this project, i would follow the following diagram
 
 4.  **Launch and Grow:** Release the extension to the public and continue iterating based on user feedback and evolving technology.
 
-**The Big Picture: Making the Web More Fun and Accessible**
+## The Big Picture: Making the Web More Fun and Accessible
 
 I truly believe this extension could change the way we experience the internet. It could make learning more fun, help us understand complex stuff better, and even make the web more accessible for people who have trouble reading.
 
-**The Journey Ahead**
+## The Journey Ahead
 
 This is all still a dream for now, but if I can find the time, I'm so excited to dive in and see what I can create. Who knows, maybe this little idea could turn into something really special!
 
-
+{: .info}
 **Join Me!**
-
 If you're a developer, educator, or simply someone who shares my passion for innovative learning tools, I'd love to hear from you! Let's work together to build the future of reading.
 {: .info}
 
