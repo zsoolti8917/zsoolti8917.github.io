@@ -25,7 +25,7 @@ But I'm not stopping there. I want to make reading *way* more engaging.
 -   **Quiz Time!** Did you know that taking a quick quiz after learning something new can help you remember it *way* better? It's true! Research shows we can retain up to 50% more information that way (Roediger & Karpicke, 2006). So, my extension would whip up a fun little quiz after each article, just to make sure everything's sinking in.
 -   **Smooth Sailing:** Forget about clicking around to get to the next page. This extension would know its way around a website, letting you navigate with just your voice. "Next page, please!"
 
-![From dream to reality](../assets/img/AI_Assistant.PNG)
+![From dream to reality](../assets/img/Project_concept.PNG)
 
 ## The Techy Stuff: Making the Magic Happen
 
