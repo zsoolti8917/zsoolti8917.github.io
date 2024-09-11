@@ -3,11 +3,10 @@ title: 'A project idea: An AI Buddy to make reading way more fun and effective'
 description: >-
  Imagine an AI-powered Chrome extension which converts text to natural-sounding speech, highlight key points, get instant answers, and take interactive quizzes—all with voice commands. Enhance learning, accessibility, and convenience with this innovative tool. Perfect for multitasking and deepening your understanding of online content.
 author: zsoolti8917
-date: 2024-08-23 12:42:00 +0200
+date: 2024-09-11 08:42:00 +0200
 categories: [AI, Extension, Learning]
 tags: [AI]
 pin: false
-media_subpath: 'assets/posts/dokku'
 ---
 
 ## Introduction
@@ -68,9 +67,9 @@ I truly believe this extension could change the way we experience the internet. 
 
 This is all still a dream for now, but if I can find the time, I'm so excited to dive in and see what I can create. Who knows, maybe this little idea could turn into something really special!
 
-{: .info}
+
 **Join Me!**
 If you're a developer, educator, or simply someone who shares my passion for innovative learning tools, I'd love to hear from you! Let's work together to build the future of reading.
-{: .info}
+{: .prompt-info }
 
 **Let's Chat!** What other features would make this extension even cooler? How would *you* use it to make your life easier or more interesting? I'm all ears!
