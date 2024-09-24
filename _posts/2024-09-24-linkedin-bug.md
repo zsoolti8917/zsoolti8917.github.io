@@ -8,7 +8,6 @@ categories: [Bug, Testing]
 tags: [Testing]
 pin: false
 ---
-# Title: Unraveling a Dark Mode Glitch on LinkedIns My Network Tab
 
 ## **Introduction**
 
