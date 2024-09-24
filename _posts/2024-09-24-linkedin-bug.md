@@ -8,8 +8,7 @@ categories: [Bug, Testing]
 tags: [Testing]
 pin: false
 image:
-  path: ../assets/img/LinkedinBug1.PNG
-  alt: Bug on Linkedin
+  lqip: ../assets/img/LinkedinBug1.PNG
 ---
 
 ## **Introduction**
