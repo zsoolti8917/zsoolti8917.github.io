@@ -1,14 +1,14 @@
 ---
 title: Unraveling a Dark Mode Glitch on LinkedIns My Network Tab
 description: >-
-In this blog post, I uncover a dark mode glitch on LinkedIn's My Network tab, where the search bar's background color renders text and icons invisible. I dive into the technical details of the issue—explaining how a missing CSS variable caused the problem, why it wasn't accessible on this specific page, and how I traced and applied the correct color from other working tabs. This experience highlights the crucial importance of thorough testing in web development to prevent such issues from reaching production, even in large organizations like LinkedIn.
+    In this blog post, I uncover a dark mode glitch on LinkedIn's My Network tab, where the search bar's background color renders text and icons invisible. I dive into the technical details of the issue—explaining how a missing CSS variable caused the problem, why it wasn't accessible on this specific page, and how I traced and applied the correct color from other working tabs. This experience highlights the crucial importance of thorough testing in web development to prevent such issues from reaching production, even in large organizations like LinkedIn.
 author: zsoolti8917
 date: 2024-09-24 08:42:00 +0200
 categories: [Bug, Testing]
 tags: [Testing]
 pin: false
 ---
-
+# Title: Unraveling a Dark Mode Glitch on LinkedIns My Network Tab
 
 ## **Introduction**
 
