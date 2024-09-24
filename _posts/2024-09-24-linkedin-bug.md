@@ -7,6 +7,9 @@ date: 2024-09-24 08:42:00 +0200
 categories: [Bug, Testing]
 tags: [Testing]
 pin: false
+image:
+  path: ../assets/img/LinkedinBug1.PNG
+  alt: Bug on Linkedin
 ---
 
 ## **Introduction**
